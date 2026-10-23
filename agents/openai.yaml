@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 352"
+  short_description: "黑线小景：上半保留原照，下半用一种黑色细线把主体和身边几样小东西画成正面的小景，站在断续的地面短线上，背后一朵大云，四周大片留白"
+  default_prompt: "Use $xxd-panel-352 to transform my photograph following the complete canonical source brief."
