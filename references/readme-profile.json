@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 352｜Cozy Line Vignette: keeps the photo and draws its subject and the few small things right beside it as one uncoloured, front-on little vignette in a single soft black line — squared-off, a little wonky and slightly squat like a toy model, details shrunk to tiny icons, openings as small squares, no shading — standing on a broken dashed ground line with one fluffy cloud rising taller behind it, the whole group a tiny island near the centre of a mostly empty white page, and one short handwritten line of poetry about this exact moment set well below. No colour at all. Scenes are reduced to one element or corner. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-352 or asks for a minimal black line vignette, a journal title-page doodle or a cozy uncoloured line drawing from a photo.",
+  "short_description": "黑线小景：把照片主体画成一朵大云下、断续地面上的正面黑线小景，配一句手写短诗",
+  "zh-CN": {
+    "name": "黑线小景",
+    "tagline": "把照片主体和身边几样小东西画成大云下面一个安静的黑线小景。",
+    "look": "只用一种黑色细线，把主体和紧挨它的几样小东西画成一个正面平视、不上色的小景：形体方正略歪、比例压矮，像玩具模型一样端正，细节缩成小图标，窗和门画成小方格，纹理只用几道短线，不排明暗。线条像软铅笔压出来的，略有粗细起伏，转角偶尔断开。小景站在一条断断续续的短横线地面上，背后从一侧升起一朵比主体更高的蓬松大云，整组只占画面中央很小一块，四周大片白纸。下方隔开一大段空白，有一句用同一支笔写的松弛手写短诗，写的是眼前这一刻。",
+    "traits": [
+      "正面平视黑色细线",
+      "不上色",
+      "方正略歪的玩具感小景",
+      "断续短横线地面",
+      "身后一朵大云",
+      "下方手写短诗"
+    ],
+    "good": [
+      "旅行或街头的小建筑：街角的咖啡馆、一扇老门、海边的一排木屋",
+      "安静的日常角落：窗台上的花、一辆靠墙的自行车、一口老井",
+      "构图差、背景乱或主体很小的照片，会被缩小居中、转成正面小景"
+    ],
+    "poor": [
+      "依赖色彩、光影或氛围的照片，比如日落、霓虹夜景，这里只有黑线",
+      "需要强透视、写实建筑线稿或丰富装饰细节的需求",
+      "想把画面画满、或想要上色和排线阴影的需求"
+    ]
+  },
+  "en": {
+    "name": "Cozy Line Vignette",
+    "tagline": "Draws the subject of your photo and a few nearby things as a quiet black-line vignette under a big cloud.",
+    "look": "A single black fine line draws the subject and the few small things right beside it as one uncoloured, front-on little vignette: squared-off, a little wonky and slightly squat, upright like a toy model, with details shrunk to tiny icons, windows and doors as small squares, texture as a few short strokes and no shading. The line feels pressed from a soft pencil, swelling slightly and sometimes breaking at corners. The vignette stands on a broken dashed ground line, with one fluffy cloud rising taller from behind on one side, and the whole group takes only a tiny area near the centre of a mostly white page. Well below it sits one short, relaxed handwritten line of poetry in the same pen, about this exact moment.",
+    "traits": [
+      "Front-on black fine line",
+      "No colour",
+      "Squarish, wonky toy-like vignette",
+      "Dashed ground line",
+      "One big cloud behind",
+      "Handwritten line of poetry"
+    ],
+    "good": [
+      "Small buildings from travel or the street: a corner café, an old door, a row of beach huts",
+      "Quiet everyday corners: flowers on a windowsill, a bicycle against a wall, an old well",
+      "Photos with weak composition, messy backgrounds or a small subject, which get shrunk, centred and turned front-on"
+    ],
+    "poor": [
+      "Photos that rely on colour, light or atmosphere, such as sunsets or neon night scenes, since there is only black line",
+      "Requests for strong perspective, realistic architectural line drawings or rich decorative detail",
+      "Requests to fill the page, or to add colour or hatched shading"
+    ]
+  },
+  "ja": {
+    "name": "黒線の小景",
+    "tagline": "写真の主役とそばの小物を、大きな雲の下の静かな黒線の小景にします。",
+    "look": "一種類の黒い細線だけで、主役とすぐそばの小物数点を、正面から見た色のない小さな景色に描きます。形は四角く少しゆがみ、比率はやや低く詰め、おもちゃの模型のように行儀よく立ちます。細部は小さなアイコンに縮め、窓や扉は小さな四角、質感は短い線を数本添えるだけで、陰影はつけません。線は柔らかい鉛筆で押したようで、太さが少し揺れ、角でときどき途切れます。小景は途切れ途切れの短い横線の地面に立ち、背後の片側から主役より背の高いふわふわの大きな雲が立ちのぼります。全体は画面中央のごく小さな一角を占めるだけで、周りは広い白い紙です。下には大きく間を空けて、同じペンで書いたゆるやかな手書きの短い詩が一行、いまこの瞬間のことを書いています。",
+    "traits": [
+      "正面から見た黒い細線",
+      "色なし",
+      "四角く少しゆがんだおもちゃ風の小景",
+      "途切れた短い横線の地面",
+      "背後の大きな雲",
+      "下に手書きの短い詩"
+    ],
+    "good": [
+      "旅先や街角の小さな建物：角のカフェ、古い扉、海辺に並ぶ小屋",
+      "静かな日常の一角：窓辺の花、壁に立てかけた自転車、古い井戸",
+      "構図が平凡、背景が散らかっている、主役が小さい写真（小さく中央に置き、正面の小景にします）"
+    ],
+    "poor": [
+      "色や光、雰囲気に頼る写真：夕焼け、ネオンの夜景など（黒い線しかありません）",
+      "強い遠近感、写実的な建築線画、豊かな装飾の細部を求める場合",
+      "画面を埋めたい場合、色や線影の陰をつけたい場合"
+    ]
+  },
+  "ko": {
+    "name": "검은 선 작은 풍경",
+    "tagline": "사진 속 주인공과 곁의 작은 물건들을 큰 구름 아래 고요한 검은 선의 작은 풍경으로 그립니다.",
+    "look": "한 가지 검은 가는 선만으로 주인공과 바로 곁의 작은 물건 몇 가지를 정면에서 본, 색을 칠하지 않은 작은 풍경으로 그립니다. 형태는 네모나고 살짝 비뚤며 비율은 조금 낮게 눌러 장난감 모형처럼 반듯하고, 세부는 작은 아이콘으로 줄이고 창과 문은 작은 네모, 질감은 짧은 선 몇 개로만 나타내며 명암은 넣지 않습니다. 선은 부드러운 연필로 눌러 그은 듯 굵기가 조금씩 흔들리고 모서리에서 가끔 끊깁니다. 작은 풍경은 끊어진 짧은 가로선 땅 위에 서 있고, 뒤쪽 한편에서 주인공보다 키 큰 뭉게구름 하나가 피어오릅니다. 전체는 화면 가운데 아주 작은 자리만 차지하고 주변은 넓은 흰 종이입니다. 아래쪽에 한참 띄워서 같은 펜으로 쓴 느슨한 손글씨 짧은 시 한 줄이 바로 지금 이 순간을 적습니다.",
+    "traits": [
+      "정면에서 본 검은 가는 선",
+      "채색 없음",
+      "네모나고 살짝 비뚠 장난감 같은 풍경",
+      "끊어진 짧은 가로선 땅",
+      "뒤편의 큰 구름",
+      "아래 손글씨 짧은 시"
+    ],
+    "good": [
+      "여행지나 거리의 작은 건물: 모퉁이 카페, 오래된 문, 바닷가 오두막 한 줄",
+      "고요한 일상의 한구석: 창가의 꽃, 벽에 기댄 자전거, 오래된 우물",
+      "구도가 평범하거나 배경이 어수선하거나 주인공이 작은 사진(작게 가운데 두고 정면 풍경으로 바꿉니다)"
+    ],
+    "poor": [
+      "색, 빛, 분위기에 기대는 사진: 노을, 네온 야경 등(검은 선뿐입니다)",
+      "강한 원근감, 사실적인 건축 선화, 풍부한 장식 디테일을 원하는 경우",
+      "화면을 가득 채우거나 채색, 해칭 음영을 넣고 싶은 경우"
+    ]
+  },
+  "ar": {
+    "name": "مشهد الخط الأسود الصغير",
+    "tagline": "يرسم العنصر الرئيسي في صورتك وبضعة أشياء قربه مشهداً صغيراً هادئاً بخط أسود تحت غيمة كبيرة.",
+    "look": "يرسم خط أسود رفيع واحد العنصر والأشياء الصغيرة الملاصقة له مشهداً صغيراً غير ملوّن يُرى من الأمام: أشكال مربّعة مائلة قليلاً ونِسَب مضغوطة إلى الأسفل، منتصبة كمجسّم لعبة، والتفاصيل مختصرة في أيقونات صغيرة، والنوافذ والأبواب مربّعات صغيرة، والملمس بضع ضربات قصيرة، بلا تظليل. يبدو الخط كأنه مضغوط بقلم رصاص ليّن، يتفاوت سُمكه قليلاً وينقطع أحياناً عند الزوايا. يقف المشهد على خط أرض متقطّع من شرطات قصيرة، وخلفه من جانب واحد غيمة منتفخة أعلى من العنصر، ولا تشغل المجموعة كلها إلا مساحة صغيرة جداً قرب وسط صفحة بيضاء في معظمها. وتحتها بمسافة واسعة سطر شعري قصير بخط يد مسترخٍ بالقلم نفسه، عن هذه اللحظة بعينها.",
+    "traits": [
+      "خط أسود رفيع من الأمام",
+      "بلا ألوان",
+      "مشهد مربّع مائل يشبه الألعاب",
+      "خط أرض متقطّع",
+      "غيمة كبيرة في الخلف",
+      "سطر شعري بخط اليد"
+    ],
+    "good": [
+      "مبانٍ صغيرة من السفر أو الشارع: مقهى على ناصية، باب قديم، صفّ أكواخ على الشاطئ",
+      "زوايا يومية هادئة: زهور على حافة نافذة، دراجة مسنودة إلى جدار، بئر قديمة",
+      "صور ضعيفة التكوين أو بخلفية فوضوية أو بعنصر صغير، تُصغَّر وتوضع في الوسط وتُدار إلى الأمام"
+    ],
+    "poor": [
+      "صور تعتمد على اللون أو الضوء أو الأجواء، مثل الغروب أو مشاهد النيون الليلية، إذ لا يوجد إلا خط أسود",
+      "طلب منظور قوي أو رسم معماري خطي واقعي أو تفاصيل زخرفية غنية",
+      "طلب ملء الصفحة أو إضافة ألوان أو تظليل بالخطوط المتقاطعة"
+    ]
+  }
+}
